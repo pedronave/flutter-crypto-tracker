@@ -1,6 +1,7 @@
-# crypto_tracker
+# Crypto Tracker
+This is a simple flutter application that tracks the current cryptocurrency market
 
-A new Flutter project.
+<img src="https://i.imgur.com/Rn9G0jM.png" alt="Application Screenshot" width="250">
 
 ## Getting Started
 
